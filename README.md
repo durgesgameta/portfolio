@@ -1,2 +1,1 @@
-# durgeshametaportfolio
-this is portfolio website 
+# Durgesh Ameta - Personal Portfolio 
